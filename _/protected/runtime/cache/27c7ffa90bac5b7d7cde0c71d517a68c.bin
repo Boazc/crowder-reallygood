@@ -1,0 +1,47 @@
+a:2:{i:0;s:4456:"a:40:{s:15:"Contact Us Form";s:26:"טופס יצירת קשר";s:73:"Please fill all required fields and hit the submit button once your done.";s:93:"אנא מלא את כל שדות החובה ולחץ על כפתור השליחה בסיום.";s:4:"Name";s:4:"שם";s:5:"Email";s:12:"אימייל";s:7:"Subject";s:8:"נושא";s:7:"Message";s:10:"הודעה";s:13:"Security Code";s:17:"קוד אבטחה";s:22:"Please enter your name";s:34:"אנא ציין את השם שלך";s:31:"Please enter your email address";s:42:"אנא ציין את האימייל שלך";s:43:"Enter the text displayed in the image below";s:62:"אנא ציין את הקוד המוצג בתמונה למטה";s:52:"Please Choose the appropriate subject for your input";s:42:"אנא בחר את הנושא המתאים";s:25:"Please enter your message";s:33:"אנא ציין את ההודעה";s:8:"Support";s:10:"תמיכה";s:10:"Affiliate";s:21:"שיתוף פעולה";s:11:"Bug Report";s:22:"דיווח על באג";s:25:"Documentation Bug Report";s:45:"דיווח על באג בדוקומנטציה";s:16:"Business Offers";s:23:"הצעות עסקיות";s:10:"Questions";s:10:"שאלות";s:9:"Other... ";s:6:"אחר";s:12:"-- Choose --";s:12:"-- בחר --";s:43:"Thank You. The form submitted successfully.";s:43:"תודה. הטופס נשלח בהצלחה.";s:301:"New Contact Us Form Submitted<br /><br />
+													By: {name}<br />
+													Email: {email}<br />
+													Subject: {subject}<br />
+													========================<br />
+													{msg}<br />
+													========================<br /><br />
+													Regards, the {team} Team.";s:333:"טופס יצירת קשר חדש<br /><br />
+													על ידי: {name}<br />
+													אימייל: {email}<br />
+													נושא: {subject}<br />
+													========================<br />
+													{msg}<br />
+													========================<br /><br />
+													בברכה, צוות {team} .";s:30:"New Contact Us Form: {subject}";s:44:"טופס יצירת קשר חדש: {subject}";s:22:"Message Was Not Found.";s:29:"ההודעה לא נמצאה.";s:9:"By {name}";s:18:"על ידי {name}";s:5:"Reply";s:6:"הגב";s:4:"Send";s:6:"שלח";s:12:"Mark As Read";s:17:"סמן כנקרא";s:16:"Mark As Not Read";s:22:"סמן כלא נקרא";s:17:"Delete this item!";s:7:"מחק!";s:13:"Item Deleted.";s:20:"הפריט נמחק.";s:29:"{count} items marked as read.";s:45:"{count} פריטים סומנו כנקראו.";s:33:"{count} items marked as not read.";s:50:"{count} פריטים סומנו כלא נקראו.";s:22:"{count} items deleted.";s:32:"{count} פריטים נמחקו.";s:15:"Viewing Message";s:21:"צופה בהודעה";s:316:"New Contact Us Form Submitted<br /><br />
+										    Id: {id}<br />
+											By: {name}<br />
+											Email: {email}<br />
+											Subject: {subject}<br />
+											========================<br />
+											{msg}<br />
+											========================<br /><br />
+											Regards, the {team} Team.";s:355:"טופס יצירת קשר חדש<br /><br />
+										    מספר: {id}<br />
+											על ידי: {name}<br />
+											אימייל: {email}<br />
+											נושא: {subject}<br />
+											========================<br />
+											{msg}<br />
+											========================<br /><br />
+											בברכה, צוות {team} .";s:208:"You have received a new reply from {replyername}<br /><br />
+											 =====================<br />
+											 {msg}<br />
+											 =====================<br /><br />
+											 Regards, The {team} Team.";s:217:"קבלת תגובה חדשה מאת {replyername}<br /><br />
+											 =====================<br />
+											 {msg}<br />
+											 =====================<br /><br />
+											 בברכה, צוות {team} .";s:13:"Re: {subject}";s:17:"הגב: {subject}";s:11:"Reply Sent.";s:22:"תגובה נשלחה.";s:227:"You have received a new reply from <b>{replyername}</b><br /><br />
+											 =====================<br />
+											 {msg}<br />
+											 =====================<br /><br />
+											 Regards, The {team} Team.<br /><br />";s:236:"קבלת תגובה חדשה מאת <b>{replyername}</b><br /><br />
+											 =====================<br />
+											 {msg}<br />
+											 =====================<br /><br />
+											 בברכה, צוות {team} .<br /><br />";}";i:1;N;}
